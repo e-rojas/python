@@ -12,4 +12,15 @@ def square_root(num):
 def win_percentage(wins,losses):
    return (losses + wins) * wins
 
-print(win_percentage(5, 5))
+#print(win_percentage(5, 5))
+
+def first_three_multiples(num):
+  print(num)
+  print(num * 2 )
+  print(num * 3)
+  return num * 3
+
+def tip(total,percentage):
+  return (total * percentage) / 100
+
+print(10 * 25 / 100)
