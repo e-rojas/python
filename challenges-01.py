@@ -24,3 +24,4 @@ def tip(total,percentage):
   return (total * percentage) / 100
 
 print(10 * 25 / 100)
+
