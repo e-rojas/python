@@ -36,4 +36,7 @@ def get_work(mass,acceleration,distance):
 
 train_work = get_work(train_mass,train_acceleration,train_distance)
 
-print(train_work)
+def first_plus_last(lst):
+  return lst[0] + lst[-1]
+
+print(first_plus_last([1,2,3,4,5]))
