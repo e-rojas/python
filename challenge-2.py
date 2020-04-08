@@ -30,5 +30,3 @@ def cheap_method(weight):
   else:
     return 'Drone shipment is the cheapest.'
   
-
-print(cheap_method(41.5))
